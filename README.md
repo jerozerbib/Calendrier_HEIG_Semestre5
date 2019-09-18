@@ -2,6 +2,8 @@
 
 1. Cours où il faut signer la feuille de présence :  
 
+- `AIT`
+
 2. Tests et exams pour lesquels nous avons le droit à des notes/au cours :  
 
 - `STI` : 12 feuilles de sythèses fournies par le prof + 1 feuille personnelle
