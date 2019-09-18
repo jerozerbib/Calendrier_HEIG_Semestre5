@@ -3,6 +3,7 @@
 1. Cours où il faut signer la feuille de présence :  
 
 - `AIT`
+- `GRX`
 
 2. Tests et exams pour lesquels nous avons le droit à des notes/au cours :  
 
