@@ -4,6 +4,7 @@
 
 - `AIT`
 - `GRX`
+- `SYM`
 
 2. Tests et exams pour lesquels nous avons le droit à des notes/au cours :  
 
