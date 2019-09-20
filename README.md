@@ -28,6 +28,8 @@
 
 - `TWEB` : 24 septembre 2019 : finir devoir 1
 
+- `SYM` : 6 octobre 2019 : Finir labo 1
+
 - `STI` : 16 octobre 2019 : Fini projet 1
 
 # Fini
