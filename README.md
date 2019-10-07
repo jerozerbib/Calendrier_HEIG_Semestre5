@@ -38,6 +38,8 @@
 
 - `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
 
+- `AMT` : 10 novembre 2019 : Rendre projet 
+
 # Fini
 
 - ~~`TWEB` : 24 septembre 2019 : finir devoir 1~~
