@@ -34,15 +34,15 @@
 
 - `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
 
-- `TWEB` : 11 novembre 2019 : TE1
+- `TWEB` : 12 novembre 2019 : TE1
 
-- `SYM` : 12 novembre 2019 : TE1
+- `SYM` : 22 novembre 2019 : TE1
 
 - `AMT` : 10 novembre 2019 : Rendre projet 
 
-- `TWEB` : 09 décembre 2019 : TE2
+- `TWEB` : 10 décembre 2019 : TE2
 
-- `TWEB` : 20 janvier 2020 : TE3
+- `TWEB` : 21 janvier 2020 : TE3
 
 # Fini
 
