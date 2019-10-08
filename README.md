@@ -26,10 +26,6 @@
 
 # A faire 
 
-- `SYM` : 6 octobre 2019 : Finir labo 1
-
-- `TWEB` : 8 octobre 2019 : Finir devoir 3
-
 - `AIT` : 9 octobre 2019 : Finir labo 1
 
 - `AST` : 13 octobre 2019 : Trouver une entreprise
@@ -45,6 +41,10 @@
 - ~~`TWEB` : 24 septembre 2019 : finir devoir 1~~
 
 - ~~`TWEB` : 3 octobre 2019 : Finir devoir 2~~
+
+- ~~`SYM` : 6 octobre 2019 : Finir labo 1~~
+
+- ~~`TWEB` : 8 octobre 2019 : Finir devoir 3~~
 
 
 
