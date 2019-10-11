@@ -34,6 +34,8 @@
 
 - `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
 
+- `SYM` : 10 novembre 2019 : Rendre labo 2
+
 - `TWEB` : 12 novembre 2019 : TE1
 
 - `SYM` : 22 novembre 2019 : TE1
