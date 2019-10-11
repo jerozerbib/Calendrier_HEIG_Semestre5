@@ -30,6 +30,8 @@
 
 - `STI` : 16 octobre 2019 : Fini projet 1
 
+- `AIT` : 16 octobre 2019 **9h30** : Finir labo 2 
+
 - `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
 
 - `TWEB` : 12 novembre 2019 : TE1
