@@ -32,6 +32,8 @@
 
 - `AIT` : 16 octobre 2019 **9h30** : Finir labo 2 
 
+- `AST` : 17 octobre 2019 : Quizz pour 10% de la note 
+
 - `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
 
 - `SYM` : 10 novembre 2019 : Rendre labo 2
