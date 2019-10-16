@@ -26,11 +26,7 @@
 
 # A faire 
 
-- `AST` : 13 octobre 2019 : Trouver une entreprise
-
 - `STI` : 16 octobre 2019 : Fini projet 1
-
-- `AIT` : 16 octobre 2019 **9h30** : Finir labo 2 
 
 - `AST` : 17 octobre 2019 : Quizz pour 10% de la note 
 
@@ -60,7 +56,7 @@
 
 - ~~`AIT` : 9 octobre 2019 : Finir labo 1~~
 
+- ~~`AST` : 13 octobre 2019 : Trouver une entreprise~~
 
-
-
+- ~~`AIT` : 16 octobre 2019 **9h30** : Finir labo 2~~
 
