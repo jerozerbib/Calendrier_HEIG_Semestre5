@@ -26,9 +26,9 @@
 
 # A faire 
 
-- `STI` : 16 octobre 2019 : Fini projet 1
+- `TWEB` : 29 octobre 2019 : Rendre labo
 
-- `AST` : 17 octobre 2019 : Quizz pour 10% de la note 
+- `GRX` : 30 octobre 2019 : Rendre labo avant **16h35**
 
 - `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
 
@@ -59,4 +59,10 @@
 - ~~`AST` : 13 octobre 2019 : Trouver une entreprise~~
 
 - ~~`AIT` : 16 octobre 2019 **9h30** : Finir labo 2~~
+
+- ~~`STI` : 16 octobre 2019 : Fini projet 1~~
+
+- ~~`AST` : 17 octobre 2019 : Quizz pour 10% de la note~~
+
+
 
