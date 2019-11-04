@@ -34,9 +34,11 @@
 
 - `SYM` : 10 novembre 2019 : Rendre labo 2
 
-- `AMT` : 10 novembre 2019 : Rendre projet 
+- `AMT` : 11 novembre 2019 : Rendre projet 
 
 - `TWEB` : 12 novembre 2019 : TE1
+
+- `AMT` : 18 novembre 2019 : TE1
 
 - `SYM` : 22 novembre 2019 : TE1
 
