@@ -26,17 +26,7 @@
 
 # A faire 
 
-- `TWEB` : 29 octobre 2019 : Rendre labo
-
-- `GRX` : 30 octobre 2019 : Rendre labo avant **16h35**
-
-- `AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2
-
-- `SYM` : 10 novembre 2019 : Rendre labo 2
-
-- `AMT` : 11 novembre 2019 : Rendre projet 
-
-- `TWEB` : 12 novembre 2019 : TE1
+- `SYM` : 14 novembre 2019 : Rendre labo 2
 
 - `AMT` : 18 novembre 2019 : TE1
 
@@ -65,6 +55,17 @@
 - ~~`STI` : 16 octobre 2019 : Fini projet 1~~
 
 - ~~`AST` : 17 octobre 2019 : Quizz pour 10% de la note~~
+
+- ~~`TWEB` : 29 octobre 2019 : Rendre labo~~
+
+- ~~`GRX` : 30 octobre 2019 : Rendre labo avant **16h35**~~
+
+- ~~`AST` : 08 novembre 2019 à **18h00** : Rendre labo 1 et 2~~
+
+- ~~`AMT` : 11 novembre 2019 : Rendre projet~~
+
+- ~~`TWEB` : 12 novembre 2019 : TE1~~
+
 
 
 
