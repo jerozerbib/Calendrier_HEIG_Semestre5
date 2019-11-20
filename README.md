@@ -30,7 +30,7 @@
 
 - `TWEB` : 19 novembre 2019 : Rendre TP
 
-- `GRX` : 20 novembre 2019 : Labo 2 
+- `GRX` : 20 novembre 2019 : Labo 2 -> date modifiée mais on a aucune indication sur la suivante
 
 - `SYM` : 22 novembre 2019 : TE1 
 
