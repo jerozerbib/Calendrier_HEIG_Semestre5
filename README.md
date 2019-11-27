@@ -26,15 +26,9 @@
 
 # A faire 
 
-- `AMT` : 18 novembre 2019 : TE1
+- `GRX` : pas de date mais a priori le 4 décembre 2019: Labo 2  
 
-- `TWEB` : 19 novembre 2019 : Rendre TP
-
-- `GRX` : 20 novembre 2019 : Labo 2 
-
-- `SYM` : 22 novembre 2019 : TE1 
-
-- `AIT` : 27 novembre 2019 : Labo 3
+- `AIT` : 4 decembre 2019 à 14:30 : Labo 3
 
 - `SYM` : 1 décembre 2019 : Labo 3
 
@@ -78,6 +72,10 @@
 
 - ~~`SYM` : 22 novembre 2019 : TE1~~
 
+- ~~`AMT` : 18 novembre 2019 : TE1~~
 
+- ~~`TWEB` : 19 novembre 2019 : Rendre TP~~
 
+- ~~`SYM` : 22 novembre 2019 : TE1~~
 
+    
