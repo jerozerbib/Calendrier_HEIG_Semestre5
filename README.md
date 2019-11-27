@@ -28,8 +28,6 @@
 
 - `GRX` : pas de date mais a priori le 4 décembre 2019: Labo 2  
 
-- `AIT` : 4 decembre 2019 à 14:30 : Labo 3
-
 - `SYM` : 1 décembre 2019 : Labo 3
 
 - `TWEB` : 10 décembre 2019 : TE2
