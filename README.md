@@ -32,6 +32,8 @@
 
 - `TWEB` : 10 décembre 2019 : TE2
 
+- `GRX` : 15 janvier 2020 : TE
+
 - `TWEB` : 21 janvier 2020 : TE3
 
 # Fini
